@@ -1,0 +1,58 @@
+.headerO{
+    width: 100%;
+    background-color: rgb(70, 70, 70);
+    position: relative;
+    display: flex;
+    min-height: 100px;
+}
+
+.headerO h1{
+    margin: auto;
+    color: white;
+}
+
+.headerO img{
+    position: absolute;
+    left: 0;
+}
+
+.coche{
+    padding: 15px;
+    width: 100%;
+
+}
+
+.editCollapse{
+    text-decoration: none; 
+    color: grey;
+}
+
+.warn{
+    color:red;
+    font-weight: 700;
+}
+
+.acabados{
+    color: grey;
+    font-weight: 700;
+    margin: 0;
+}
+
+.footer{
+    background-color:rgb(70, 70, 70);
+    color: white;
+    width: 100%;
+    margin-left: 0 !important;
+    display: flex;
+}
+
+.footer h2{
+    padding: 10px;
+    margin: auto;
+}
+
+.hr {
+ height: 1px;
+ background-color: gainsboro;
+ width: 100%;
+}
